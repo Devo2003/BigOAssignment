@@ -1,0 +1,15 @@
+/Users/devinsalgado35/Projects/BigOAssignment1/BigOAssignment1/bin/Debug/net6.0/BigOAssignment1
+/Users/devinsalgado35/Projects/BigOAssignment1/BigOAssignment1/bin/Debug/net6.0/BigOAssignment1.deps.json
+/Users/devinsalgado35/Projects/BigOAssignment1/BigOAssignment1/bin/Debug/net6.0/BigOAssignment1.runtimeconfig.json
+/Users/devinsalgado35/Projects/BigOAssignment1/BigOAssignment1/bin/Debug/net6.0/BigOAssignment1.dll
+/Users/devinsalgado35/Projects/BigOAssignment1/BigOAssignment1/bin/Debug/net6.0/BigOAssignment1.pdb
+/Users/devinsalgado35/Projects/BigOAssignment1/BigOAssignment1/obj/Debug/net6.0/BigOAssignment1.csproj.AssemblyReference.cache
+/Users/devinsalgado35/Projects/BigOAssignment1/BigOAssignment1/obj/Debug/net6.0/BigOAssignment1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/devinsalgado35/Projects/BigOAssignment1/BigOAssignment1/obj/Debug/net6.0/BigOAssignment1.AssemblyInfoInputs.cache
+/Users/devinsalgado35/Projects/BigOAssignment1/BigOAssignment1/obj/Debug/net6.0/BigOAssignment1.AssemblyInfo.cs
+/Users/devinsalgado35/Projects/BigOAssignment1/BigOAssignment1/obj/Debug/net6.0/BigOAssignment1.csproj.CoreCompileInputs.cache
+/Users/devinsalgado35/Projects/BigOAssignment1/BigOAssignment1/obj/Debug/net6.0/BigOAssignment1.dll
+/Users/devinsalgado35/Projects/BigOAssignment1/BigOAssignment1/obj/Debug/net6.0/refint/BigOAssignment1.dll
+/Users/devinsalgado35/Projects/BigOAssignment1/BigOAssignment1/obj/Debug/net6.0/BigOAssignment1.pdb
+/Users/devinsalgado35/Projects/BigOAssignment1/BigOAssignment1/obj/Debug/net6.0/BigOAssignment1.genruntimeconfig.cache
+/Users/devinsalgado35/Projects/BigOAssignment1/BigOAssignment1/obj/Debug/net6.0/ref/BigOAssignment1.dll
